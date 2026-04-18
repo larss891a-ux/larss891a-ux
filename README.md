@@ -10,9 +10,9 @@ I’m looking to collaborate on mental health tech, well-being at work projects,
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=larss891a-ux&theme=transparent&hide_border=false)<br/>
-<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+![](https://github-readme-stats.shion.dev/api?username=larss891a-ux&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=larss891a-ux&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=larss891a-ux&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=larss891a-ux&icon=0)](https://visitcount.itsvg.in)
