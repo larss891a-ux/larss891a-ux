@@ -12,10 +12,10 @@ I’m looking to collaborate on mental health tech, well-being at work projects,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=larss891a-ux&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ---
-[![](https://komarev.com/ghpvc/?username=larss891a-ux&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=larss891a-ux&icon=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
