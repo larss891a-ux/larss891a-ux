@@ -14,9 +14,6 @@ I’m looking to collaborate on mental health tech, well-being at work projects,
 ![](https://streak-stats.demolab.com/?user=larss891a-ux&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=larss891a-ux&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=larss891a-ux&icon=0&color=9)](https://visitcount.itsvg.in)
 
