@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently working on designing group therapy programs, workplace mindfulness initiatives, and digital tools that support focus, emotional regulation, and accountability. Also exploring project management systems for remote and mental health focused work.<br> 🌱 <br>
-I’m looking to collaborate on mental health tech, well-being at work projects, research-informed wellness programs, community-based mental health initiatives, and interdisciplinary projects that bridge psychology, mindfulness, and technology.I'm here to scale ideas into structured projects, improving product and program design, and collaborating with developers or researchers interested in ethical, evidence-based mental health solutions.<br>⚡<br>Fun fact: I’m fascinated by language and communication, whether Latin-based languages or programming ones.
+I’m looking to collaborate on mental health tech, well-being at work projects, research-informed wellness programs, community-based mental health initiatives, and interdisciplinary projects that bridge psychology, mindfulness, and technology. I'm here to scale ideas into structured projects, improving product and program design, and collaborating with developers or researchers interested in ethical, evidence-based mental health solutions.<br>⚡<br>Fun fact: I’m fascinated by language and communication, whether Latin-based languages or programming ones.
 
 
 ## 🌐 Socials:
